@@ -1,0 +1,17 @@
+.bgset{
+    background-image: url('bgg.png');
+
+}
+img{
+height: 50px;
+width: 50px;
+} 
+.sectionset{
+background-color: rosybrown;
+width: 100%;
+text-align: center;
+
+}
+.set{
+background-color: rgb(145, 77, 4);
+}

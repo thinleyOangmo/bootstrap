@@ -1,0 +1,29 @@
+.bgimg1{
+    background-image: url('bg.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height:100%;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
+.colorset{
+    background-color:white;
+    
+}
+h1{
+    text-align: center;
+}
+.sectionset{
+    background-color: rosybrown;
+    width: 100%;
+    text-align: center;
+
+}
+
+

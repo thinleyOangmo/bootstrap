@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgimg1{
+    background-image: url('tn.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height:600px;
+}
+nav{
+    display: flex;
+    padding:2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    height: 50px;
+    width: 50px;
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.nav-links ul li{
+    list-style:none;
+    display: inline-block;
+    padding:8px 12px;
+    position:relative;
+}
+.nav-links ul li a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.headerset{
+    padding-top: 300px;
+    box-sizing:border-box; ;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.sectionset{
+    background-image: url(bg.jpg);
+    background-size: 100% 100%;
+    font-size: 20px;
+    
+}
+.sectionset1{
+    background-color: rosybrown;
+    width: 100%;
+    text-align: center;
+    
+    }
+
+.setting{
+    width: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+#img2{
+    height: 400px;
+    width: 500px;
+    border-radius:50%;
+}
+.img3{
+    height: 300px;
+    width: 300px;
+    border-radius:50%;
+}
+.para{
+    text-align: justify;
+}
+
+

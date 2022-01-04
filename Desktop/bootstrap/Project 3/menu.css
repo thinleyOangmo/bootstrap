@@ -1,0 +1,21 @@
+.bgset{
+    background-image: url('bgg.png');
+}
+#img1{
+height: 50px;
+weight:50px;
+}
+#image{
+width: 200px;
+height: 200px;
+}
+#image2{
+width: 280px;
+height: 300px;
+}
+h2{
+text-align: center;
+}
+.colorset{
+background-color: sandybrown;
+}

@@ -1,0 +1,109 @@
+    .bgset1{
+        background-image:url(BG.jpg);
+        height: 400px;
+    }
+    .headerset{
+        padding-top: 200px;
+        box-sizing:border-box; 
+        
+    }
+    .block{
+        background-color: rosybrown;
+        width: 1250px;
+        margin-top: -40px;
+        height: 500px;
+        
+    }
+    .img1{
+        height:50px;
+        width:50px;
+    }
+    .img2{
+        height:320px;
+        width: 350px;
+        border-radius:50%
+    }
+
+    .col{
+        text-align: center;
+    }
+    .timg{
+        height: 200px;
+        width: 200px;
+        border-radius:50%;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        font-size:20px;
+    
+    }
+    .sett{
+        text-align: center;
+    }
+
+    /* for menu*/
+    .img3{
+        height:400px;
+        width: 100%;
+    }
+    .menu1{
+        background-color: rosybrown;
+    }
+    #para{
+        text-align: justify;
+    }
+    #fontset{
+        font-family: "Helvetica Ne";
+    }
+    .imgg{
+        height: 200px;
+        width: 200px;
+        border-radius: 30px;
+    }
+    .imgg2{
+        height: 200px;
+        width: 200px;
+    }
+    .set{
+        height: 300px;
+        width: 310px;
+        border-radius: 30px;
+    }
+    .bd{
+        background-color:black ;
+    }
+    /*for recipe*/
+
+    .image{
+        height: 200px;
+        width: 250px;
+    }
+    /*contact us*/
+    .image1{
+        width: 100%;
+        height:450px;
+    }
+    .set2{
+        font-size: 20px;
+        text-align: justify;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    .image4{
+        height: 200px;
+        width: 250px;
+        border-radius: 30px;
+    }
+    .setting{
+        background-color:lightcoral;
+    }
+    .mem{
+        margin-top: -400px;
+    }
+    .mem1{
+        border: 2px solid black;
+        height: 550px;
+        width: 500px;
+        background-color:lightblue;
+    }

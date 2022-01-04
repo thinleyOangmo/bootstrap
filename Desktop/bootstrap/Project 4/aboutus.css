@@ -1,0 +1,28 @@
+.bgimg1{
+    background-image: url('bg.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height:100%;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.img1{
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+        
+    }
+    .colorset{
+        background-color: #d27979;
+    }
+    P{
+        font-size:20px
+    }
+    h1{
+        text-align: center;
+    }
+    .bro{
+        border-radius: 50px;
+    }
